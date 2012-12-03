@@ -32,10 +32,10 @@ So I send the proof of delivery over to Paypal as required and started looking i
 The more I looked into the buyer, the more suspicious I became:
 
 * Most of his feedback came from cheap sub-$3 digital goods. 
-* His shipping address was to General Delivery at a Post Office in Ohio. 
+* His shipping address was to General Delivery at a Post Office in a small town in Ohio. 
 * His Phone Number turned out to be Google Voice and went straight to voicemail.
 * Furthermore, he got positive reviews from 3 other sellers that sold him 3 more new iPhone 5s within a week of my sale. 
-*I contacted these sellers through eBay Messages platform and was petrified to learn that each one of them got a chargeback issued by same very buyer. 
+*I contacted these sellers through eBay Messages platform and was petrified to learn that each one of them got a chargeback issued by same very buyer. Interestingly enough, they couldn't undo their positive feedback or post negative feedback about the buyer since eBay got rid of that feature a few years back.
 
 [{% img https://lh3.googleusercontent.com/-H7cwOPsqrqQ/ULx7o917y4I/AAAAAAAADAA/XCG9GjdMoVo/s288/seller1_message.png 200 %}](https://lh3.googleusercontent.com/-H7cwOPsqrqQ/ULx7o917y4I/AAAAAAAADAA/XCG9GjdMoVo/s800/seller1_message.png)
 [{% img https://lh6.googleusercontent.com/-yFm75ggSmYI/ULx7piFLmcI/AAAAAAAADAU/Jzoltpg-pTM/s288/seller2_message.png 200 %}](https://lh6.googleusercontent.com/-yFm75ggSmYI/ULx7piFLmcI/AAAAAAAADAU/Jzoltpg-pTM/s800/seller2_message.png)
@@ -49,13 +49,21 @@ There was no doubt in my mind, that the fraud would be as clear to Paypal's inve
 
 That reassurance was very short-lived as I soon received an email from Paypal stating that I am in fact NOT ELIGIBLE for Seller Protection for this transaction because "*not as described*" chargeback apparently is not covered by Seller Protection.
 
-[{% img right https://lh6.googleusercontent.com/-rhtIyAG_TPs/ULyAxOhZy9I/AAAAAAAADBA/u_vwT_3szb4/s288/paypal_protection.png 200%}](https://lh6.googleusercontent.com/-rhtIyAG_TPs/ULyAxOhZy9I/AAAAAAAADBA/u_vwT_3szb4/s288/paypal_protection.png) Take a look at [Paypal's Seller Protection](https://www.paypal.com/us/webapps/mpp/security/seller-protection-learn-more) Page. Note how it states: "*PayPal will cover you in the event of an unauthorized purchase, an "item not received" claim, chargeback, or reversal*" on top. This seems to me Paypal would cover you in case of any chargebacks if you follow Paypal's Seller Protection rules outline later in that page.
+[{% img right https://lh6.googleusercontent.com/-rhtIyAG_TPs/ULyAxOhZy9I/AAAAAAAADBA/u_vwT_3szb4/s288/paypal_protection.png 200%}](https://lh6.googleusercontent.com/-rhtIyAG_TPs/ULyAxOhZy9I/AAAAAAAADBA/u_vwT_3szb4/s288/paypal_protection.png) Take a look at [Paypal's Seller Protection](https://www.paypal.com/us/webapps/mpp/security/seller-protection-learn-more) Page. Note how it states: "*PayPal will cover you in the event of an unauthorized purchase, an "item not received" claim, chargeback, or reversal*" on top. This seems to mean that Paypal would cover you in case of any chargebacks if you follow Paypal's Seller Protection rules outlined later in that page.
 
-Well my interpretation was wrong: later in page it states "*You are not covered when .... You've received a claim or a chargeback, and the shipped item is found to be significantly different than it was described.*" Notice how it says "*the shipped item is found*..." Do you think this implies that the **shipped item will never be returned to the seller**? Read ON!
+Well my interpretation was wrong: later in page it states "*You are not covered when .... You've received a claim or a chargeback, and the shipped item is found to be significantly different than it was described.*" Notice how it says "*the shipped item is found*..." 
+
+Do you think this implies that the **shipped item will never be returned to the seller**? 
+
+Do you think there is any verification mechanism for validity of buyer's statemens?
+
+Do you think that sellers with a long history of positive feedbacks would have some say in the matter vs buyers with 2 months of fake-ish feedback?
+
+*Answers are coming up very soon, so keep reading my fellow observers!*
 
 ### The Collections
 
-Meanwhile, Paypal's automatic reversal put my account $850 in the red. Soon after Paypal collections started calling me even while the case is still being disputed. Since i didnt feel I did anything wrong, I had no intention of paying this while its still in review, essentially making this issue my problem vs Paypal's problem. To my surprise, most of the folks working in Paypal collections were fairly understandable, but they insisted that I am taking a risk of this going to the outside collections.....
+Meanwhile, Paypal's automatic reversal put my account $850 in the red. Soon after Paypal collections started calling me even while the case was still being disputed. Since i didnt feel I did anything wrong, I had no intention of paying this while its still in review, essentially making this issue my problem vs Paypal's problem. To my surprise, most of the folks working in Paypal collections were fairly understandable, but they insisted that I am taking a risk of this going to the outside collections.....
 
 ### The Report
 
@@ -101,7 +109,9 @@ Your only chance of collecting the money is to file a police report at the locat
 
 ##### TLDR:
 
-I sold iPhone 5 on Ebay to a fraudster that issued "ITEM NOT AS DESCRIBED" chargebacks against me and 3 other sellers and won. eBay/Paypal did not cover me under Seller Protection and did very little to dispute the chargebacks or to force the buyer to send it back. Im out of nearly a thousand dollars(after ebay fees) and the iPhone.
+I sold iPhone 5 on Ebay to a fraudster that issued "ITEM NOT AS DESCRIBED" chargebacks against me and 3 other sellers and won. eBay/Paypal did not cover me under Seller Protection and did very little to dispute the chargebacks or to force the buyer to send it back. 
+
+Im out of nearly a thousand dollars(after ebay fees) and the iPhone while the fraudulent buyer is enjoying his FREE iPhone from me and 3 other sellers and both Paypal and Ebay do collect fees from these fraudulent transactions that they do not help with resolving.
 
 #### P.S.
 
