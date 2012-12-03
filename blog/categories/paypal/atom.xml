@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Paypal | CodeNerdz]]></title>
   <link href="http://codenerdz.com/blog/categories/paypal/atom.xml" rel="self"/>
   <link href="http://codenerdz.com/"/>
-  <updated>2012-12-03T03:22:46-08:00</updated>
+  <updated>2012-12-03T10:05:14-08:00</updated>
   <id>http://codenerdz.com/</id>
   <author>
     <name><![CDATA[Vlad Gurovich]]></name>
@@ -53,10 +53,10 @@ In late September, when my elder father's mobile contract came to an end, I deci
 
 <ul>
 <li>Most of his feedback came from cheap sub-$3 digital goods.</li>
-<li>His shipping address was to General Delivery at a Post Office in Ohio.</li>
+<li>His shipping address was to General Delivery at a Post Office in a small town in Ohio.</li>
 <li>His Phone Number turned out to be Google Voice and went straight to voicemail.</li>
 <li>Furthermore, he got positive reviews from 3 other sellers that sold him 3 more new iPhone 5s within a week of my sale.
-*I contacted these sellers through eBay Messages platform and was petrified to learn that each one of them got a chargeback issued by same very buyer.</li>
+*I contacted these sellers through eBay Messages platform and was petrified to learn that each one of them got a chargeback issued by same very buyer. Interestingly enough, they couldn't undo their positive feedback or post negative feedback about the buyer since eBay got rid of that feature a few years back.</li>
 </ul>
 
 
@@ -72,13 +72,21 @@ In late September, when my elder father's mobile contract came to an end, I deci
 
 <p>That reassurance was very short-lived as I soon received an email from Paypal stating that I am in fact NOT ELIGIBLE for Seller Protection for this transaction because "<em>not as described</em>" chargeback apparently is not covered by Seller Protection.</p>
 
-<p><a href="https://lh6.googleusercontent.com/-rhtIyAG_TPs/ULyAxOhZy9I/AAAAAAAADBA/u_vwT_3szb4/s288/paypal_protection.png"><img class="right" src="https://lh6.googleusercontent.com/-rhtIyAG_TPs/ULyAxOhZy9I/AAAAAAAADBA/u_vwT_3szb4/s288/paypal_protection.png" width="200"></a> Take a look at <a href="https://www.paypal.com/us/webapps/mpp/security/seller-protection-learn-more">Paypal's Seller Protection</a> Page. Note how it states: "<em>PayPal will cover you in the event of an unauthorized purchase, an "item not received" claim, chargeback, or reversal</em>" on top. This seems to me Paypal would cover you in case of any chargebacks if you follow Paypal's Seller Protection rules outline later in that page.</p>
+<p><a href="https://lh6.googleusercontent.com/-rhtIyAG_TPs/ULyAxOhZy9I/AAAAAAAADBA/u_vwT_3szb4/s288/paypal_protection.png"><img class="right" src="https://lh6.googleusercontent.com/-rhtIyAG_TPs/ULyAxOhZy9I/AAAAAAAADBA/u_vwT_3szb4/s288/paypal_protection.png" width="200"></a> Take a look at <a href="https://www.paypal.com/us/webapps/mpp/security/seller-protection-learn-more">Paypal's Seller Protection</a> Page. Note how it states: "<em>PayPal will cover you in the event of an unauthorized purchase, an "item not received" claim, chargeback, or reversal</em>" on top. This seems to mean that Paypal would cover you in case of any chargebacks if you follow Paypal's Seller Protection rules outlined later in that page.</p>
 
-<p>Well my interpretation was wrong: later in page it states "<em>You are not covered when .... You've received a claim or a chargeback, and the shipped item is found to be significantly different than it was described.</em>" Notice how it says "<em>the shipped item is found</em>..." Do you think this implies that the <strong>shipped item will never be returned to the seller</strong>? Read ON!</p>
+<p>Well my interpretation was wrong: later in page it states "<em>You are not covered when .... You've received a claim or a chargeback, and the shipped item is found to be significantly different than it was described.</em>" Notice how it says "<em>the shipped item is found</em>..."</p>
+
+<p>Do you think this implies that the <strong>shipped item will never be returned to the seller</strong>?</p>
+
+<p>Do you think there is any verification mechanism for validity of buyer's statemens?</p>
+
+<p>Do you think that sellers with a long history of positive feedbacks would have some say in the matter vs buyers with 2 months of fake-ish feedback?</p>
+
+<p><em>Answers are coming up very soon, so keep reading my fellow observers!</em></p>
 
 <h3>The Collections</h3>
 
-<p>Meanwhile, Paypal's automatic reversal put my account $850 in the red. Soon after Paypal collections started calling me even while the case is still being disputed. Since i didnt feel I did anything wrong, I had no intention of paying this while its still in review, essentially making this issue my problem vs Paypal's problem. To my surprise, most of the folks working in Paypal collections were fairly understandable, but they insisted that I am taking a risk of this going to the outside collections.....</p>
+<p>Meanwhile, Paypal's automatic reversal put my account $850 in the red. Soon after Paypal collections started calling me even while the case was still being disputed. Since i didnt feel I did anything wrong, I had no intention of paying this while its still in review, essentially making this issue my problem vs Paypal's problem. To my surprise, most of the folks working in Paypal collections were fairly understandable, but they insisted that I am taking a risk of this going to the outside collections.....</p>
 
 <h3>The Report</h3>
 
@@ -133,7 +141,9 @@ accepting the terms of the PayPal User Agreement, you agreed to accept the decis
 
 <h5>TLDR:</h5>
 
-<p>I sold iPhone 5 on Ebay to a fraudster that issued "ITEM NOT AS DESCRIBED" chargebacks against me and 3 other sellers and won. eBay/Paypal did not cover me under Seller Protection and did very little to dispute the chargebacks or to force the buyer to send it back. Im out of nearly a thousand dollars(after ebay fees) and the iPhone.</p>
+<p>I sold iPhone 5 on Ebay to a fraudster that issued "ITEM NOT AS DESCRIBED" chargebacks against me and 3 other sellers and won. eBay/Paypal did not cover me under Seller Protection and did very little to dispute the chargebacks or to force the buyer to send it back.</p>
+
+<p>Im out of nearly a thousand dollars(after ebay fees) and the iPhone while the fraudulent buyer is enjoying his FREE iPhone from me and 3 other sellers and both Paypal and Ebay do collect fees from these fraudulent transactions that they do not help with resolving.</p>
 
 <h4>P.S.</h4>
 
