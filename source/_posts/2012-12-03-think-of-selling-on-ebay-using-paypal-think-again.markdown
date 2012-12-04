@@ -13,6 +13,10 @@ Like many of my fellow geeks, Im an occasional eBay seller. Whenever the time co
 
 And then you, the SELLER, will be PROTECTED from buyer's fraudulent claims by Paypal's confidence-assuring Seller Protection.....OR SO I THOUGHT :(
 <!-- more -->
+##### Update
+
+*Thanks for all the supporters that helped this blog post go viral on both HackerNews and Twitter. Both executive team office and Developer Evangelists at Paypal have reached out to me in order to resolve this case. I am working on "Post Mortem" post to provide more updates and share my experiences with the community outcry.*
+
 ### The Sale
 [{%img right https://lh6.googleusercontent.com/--gJ6OXA7-tY/ULx7qMNVMvI/AAAAAAAADAY/mHbA__y3FYg/s288/signature_confirmation.png 200 %}](https://lh6.googleusercontent.com/--gJ6OXA7-tY/ULx7qMNVMvI/AAAAAAAADAY/mHbA__y3FYg/s800/signature_confirmation.png)
 In late September, when my elder father's mobile contract came to an end, I decided to use his renewal upgrade to subsidize his phone service. 
@@ -35,7 +39,7 @@ The more I looked into the buyer, the more suspicious I became:
 * His shipping address was to General Delivery at a Post Office in a small town in Ohio. 
 * His Phone Number turned out to be Google Voice and went straight to voicemail.
 * Furthermore, he got positive reviews from 3 other sellers that sold him 3 more new iPhone 5s within a week of my sale. 
-*I contacted these sellers through eBay Messages platform and was petrified to learn that each one of them got a chargeback issued by same very buyer. Interestingly enough, they couldn't undo their positive feedback or post negative feedback about the buyer since eBay got rid of that feature a few years back.
+* I contacted these sellers through eBay Messages platform and was petrified to learn that each one of them got a chargeback issued by same very buyer. Interestingly enough, they couldn't undo their positive feedback or post negative feedback about the buyer since eBay got rid of that feature a few years back.
 
 [{% img https://lh3.googleusercontent.com/-H7cwOPsqrqQ/ULx7o917y4I/AAAAAAAADAA/XCG9GjdMoVo/s288/seller1_message.png 200 %}](https://lh3.googleusercontent.com/-H7cwOPsqrqQ/ULx7o917y4I/AAAAAAAADAA/XCG9GjdMoVo/s800/seller1_message.png)
 [{% img https://lh6.googleusercontent.com/-yFm75ggSmYI/ULx7piFLmcI/AAAAAAAADAU/Jzoltpg-pTM/s288/seller2_message.png 200 %}](https://lh6.googleusercontent.com/-yFm75ggSmYI/ULx7piFLmcI/AAAAAAAADAU/Jzoltpg-pTM/s800/seller2_message.png)
