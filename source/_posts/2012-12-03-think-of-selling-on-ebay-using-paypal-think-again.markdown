@@ -114,6 +114,8 @@ I sold iPhone 5 on Ebay to a fraudster that issued "ITEM NOT AS DESCRIBED" charg
 
 Im out of nearly a thousand dollars(after ebay fees) and the iPhone while the fraudulent buyer is enjoying his FREE iPhone from me and 3 other sellers and both Paypal and Ebay do collect fees from these fraudulent transactions that they do not help with resolving.
 
+Discuss this on [HackerNews](http://news.ycombinator.com/item?id=4867484)
+
 ##### Update
 
 *Thanks for all the supporters that helped this blog post go viral on both HackerNews and Twitter. Both executive team office and Developer Evangelists at Paypal, as well as investigators from eBay have reached out to me in order to resolve this case. Please read my [Post-Mortem](http://codenerdz.com/blog/2012/12/05/post-mortem-outcry-of-the-crowd/) post, where I outline my experiences once this story became highly visible.*

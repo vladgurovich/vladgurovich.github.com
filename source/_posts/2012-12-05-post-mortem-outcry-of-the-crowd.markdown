@@ -83,4 +83,6 @@ In the meanwhile, for my hi-tech spring cleaning needs, I will turn to CraigsLis
 
 Im definitely looking forward to customizing Octopress to my heart's desire. Being a Rails developer, publishing your blog with 'rake deploy' brings unexplainable sense of joy to geek's heart.
 
+Discuss this on [HackerNews](http://news.ycombinator.com/item?id=4883468)
+
  
