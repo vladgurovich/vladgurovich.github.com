@@ -13,9 +13,6 @@ Like many of my fellow geeks, Im an occasional eBay seller. Whenever the time co
 
 And then you, the SELLER, will be PROTECTED from buyer's fraudulent claims by Paypal's confidence-assuring Seller Protection.....OR SO I THOUGHT :(
 <!-- more -->
-##### Update
-
-*Thanks for all the supporters that helped this blog post go viral on both HackerNews and Twitter. Both executive team office and Developer Evangelists at Paypal have reached out to me in order to resolve this case. I am working on "Post Mortem" post to provide more updates and share my experiences with the community outcry.*
 
 ### The Sale
 [{%img right https://lh6.googleusercontent.com/--gJ6OXA7-tY/ULx7qMNVMvI/AAAAAAAADAY/mHbA__y3FYg/s288/signature_confirmation.png 200 %}](https://lh6.googleusercontent.com/--gJ6OXA7-tY/ULx7qMNVMvI/AAAAAAAADAY/mHbA__y3FYg/s800/signature_confirmation.png)
@@ -53,13 +50,13 @@ There was no doubt in my mind, that the fraud would be as clear to Paypal's inve
 
 That reassurance was very short-lived as I soon received an email from Paypal stating that I am in fact NOT ELIGIBLE for Seller Protection for this transaction because "*not as described*" chargeback apparently is not covered by Seller Protection.
 
-[{% img right https://lh6.googleusercontent.com/-rhtIyAG_TPs/ULyAxOhZy9I/AAAAAAAADBA/u_vwT_3szb4/s288/paypal_protection.png 200%}](https://lh6.googleusercontent.com/-rhtIyAG_TPs/ULyAxOhZy9I/AAAAAAAADBA/u_vwT_3szb4/s288/paypal_protection.png) Take a look at [Paypal's Seller Protection](https://www.paypal.com/us/webapps/mpp/security/seller-protection-learn-more) Page. Note how it states: "*PayPal will cover you in the event of an unauthorized purchase, an "item not received" claim, chargeback, or reversal*" on top. This seems to mean that Paypal would cover you in case of any chargebacks if you follow Paypal's Seller Protection rules outlined later in that page.
+[{% img right https://lh6.googleusercontent.com/-rhtIyAG_TPs/ULyAxOhZy9I/AAAAAAAADBA/u_vwT_3szb4/s288/paypal_protection.png 200%}](https://lh6.googleusercontent.com/-rhtIyAG_TPs/ULyAxOhZy9I/AAAAAAAADBA/u_vwT_3szb4/s800/paypal_protection.png) Take a look at [Paypal's Seller Protection](https://www.paypal.com/us/webapps/mpp/security/seller-protection-learn-more) Page. Note how it states: "*PayPal will cover you in the event of an unauthorized purchase, an "item not received" claim, chargeback, or reversal*" on top. This seems to mean that Paypal would cover you in case of any chargebacks if you follow Paypal's Seller Protection rules outlined later in that page.
 
 Well my interpretation was wrong: later in page it states "*You are not covered when .... You've received a claim or a chargeback, and the shipped item is found to be significantly different than it was described.*" Notice how it says "*the shipped item is found*..." 
 
 Do you think this implies that the **shipped item will never be returned to the seller**? 
 
-Do you think there is any verification mechanism for validity of buyer's statemens?
+Do you think there is any verification mechanism for validity of buyer's statements?
 
 Do you think that sellers with a long history of positive feedbacks would have some say in the matter vs buyers with 2 months of fake-ish feedback?
 
@@ -71,7 +68,7 @@ Meanwhile, Paypal's automatic reversal put my account $850 in the red. Soon afte
 
 ### The Report
 
-I put some effort into collecting all the evidence available to me and then wrote up a detailed 2-page report of what happened and submitted it along with proof of delivery, proof of purchase of the original phone, ebay listings for other iPhones purchased by this fraudster and info on other sellers that he defrauded. Ive also filed a [USPS Mail Fraud](http://ehome.uspis.gov/fcsexternal/default.aspx) complaint and FBI-run [Intenet Crime Complaint Center](ic3.gov) complaint . All of these I submitted to Paypal Resolution Center and started praying to the gods of fraud detection at Paypal and the Credit Card companies.
+I put some effort into collecting all the evidence available to me and then wrote up a detailed 2-page report of what happened and submitted it along with proof of delivery, proof of purchase of the original phone, ebay listings for other iPhones purchased by this fraudster and info on other sellers that he defrauded. Ive also filed a [USPS Mail Fraud](http://ehome.uspis.gov/fcsexternal/default.aspx) complaint and FBI-run [Intenet Crime Complaint Center](http://ic3.gov) complaint . All of these I submitted to Paypal Resolution Center and started praying to the gods of fraud detection at Paypal and the Credit Card companies.
 
 ### Hope Dies Last
 
@@ -101,7 +98,7 @@ Yes, it is. Because both eBay and Paypal provided this fraudster with loopholes 
 
 ##### How did Paypal enable this fraud to happen
 
-* Paypal advertises confidence-inspiring Seller Protection without highlighting lack of coverage "merchandise not as describe" or providing solutions to this issue
+* Paypal advertises confidence-inspiring Seller Protection without highlighting lack of coverage for ß"merchandise not as describe" or providing solutions to this issue
 * Paypal doesnt enforce the buyer to return the item in case of "merchandise as described"
 * Paypal doesnt allow the seller to contact the buyers credit card issuer in order to try to dispute the chargeback directly 
 
@@ -117,6 +114,8 @@ I sold iPhone 5 on Ebay to a fraudster that issued "ITEM NOT AS DESCRIBED" charg
 
 Im out of nearly a thousand dollars(after ebay fees) and the iPhone while the fraudulent buyer is enjoying his FREE iPhone from me and 3 other sellers and both Paypal and Ebay do collect fees from these fraudulent transactions that they do not help with resolving.
 
-#### P.S.
+##### Update
 
-If anyone from Paypal or Ebay is reading this and wants to look into this, the case ID is **PP-002-034-384-166**
+*Thanks for all the supporters that helped this blog post go viral on both HackerNews and Twitter. Both executive team office and Developer Evangelists at Paypal, as well as investigators from eBay have reached out to me in order to resolve this case. Please read my [Post-Mortem](http://codenerdz.com/blog/2012/12/05/post-mortem-outcry-of-the-crowd/) post, where I outline my experiences once this story became highly visible.*
+
+
