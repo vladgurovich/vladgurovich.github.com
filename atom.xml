@@ -4,7 +4,7 @@
   <title><![CDATA[CodeNerdz]]></title>
   <link href="http://codenerdz.com/atom.xml" rel="self"/>
   <link href="http://codenerdz.com/"/>
-  <updated>2012-12-06T11:50:05-08:00</updated>
+  <updated>2012-12-06T13:31:13-08:00</updated>
   <id>http://codenerdz.com/</id>
   <author>
     <name><![CDATA[Vlad Gurovich]]></name>
@@ -101,6 +101,8 @@ I wrote the story over the weekend, waited until Monday noon Pacific Time to pos
 <p><a href="https://lh6.googleusercontent.com/-MJcq9GoIrXA/UL8HHnE0efI/AAAAAAAADCs/gWaVTRVyJN8/s800/Dec%25204%2520stats.png"><img class="right" src="https://lh6.googleusercontent.com/-MJcq9GoIrXA/UL8HHnE0efI/AAAAAAAADCs/gWaVTRVyJN8/s288/Dec%25204%2520stats.png" width="200"></a> My decision of going with a statically generated blog courtesy of <a href="http://octopress.org">Octopress</a> and <a href="http://pages.github.com">Github Pages</a> while using <a href="http://disqus.com">Disqus</a> for comments definitely paid off. Not only did survive being on top of HackerNews front page for nearly 2 days with over 75,000 unique page loads, it did so without a hickup and best of all - for FREE. Im also pretty happy that I decided to go with Google&#8217;s <a href="http://picasaweb.google.com">PicasaWeb</a> for image hosting instead of using S3&#8217;s paid bandwidth.</p>
 
 <p>Im definitely looking forward to customizing Octopress to my heart&#8217;s desire. Being a Rails developer, publishing your blog with &#8216;rake deploy&#8217; brings unexplainable sense of joy to geek&#8217;s heart.</p>
+
+<p>Discuss this on <a href="http://news.ycombinator.com/item?id=4883468">HackerNews</a></p>
 ]]></content>
   </entry>
   
@@ -235,6 +237,8 @@ accepting the terms of the PayPal User Agreement, you agreed to accept the decis
 <p>I sold iPhone 5 on Ebay to a fraudster that issued &#8220;ITEM NOT AS DESCRIBED&#8221; chargebacks against me and 3 other sellers and won. eBay/Paypal did not cover me under Seller Protection and did very little to dispute the chargebacks or to force the buyer to send it back.</p>
 
 <p>Im out of nearly a thousand dollars(after ebay fees) and the iPhone while the fraudulent buyer is enjoying his FREE iPhone from me and 3 other sellers and both Paypal and Ebay do collect fees from these fraudulent transactions that they do not help with resolving.</p>
+
+<p>Discuss this on <a href="http://news.ycombinator.com/item?id=4867484">HackerNews</a></p>
 
 <h5>Update</h5>
 
