@@ -9,7 +9,7 @@
   <meta name="author" content="Vlad Gurovich">
 
   
-  <meta name="description" content="My intent for writing a tale of the &#8220;Perfect Ebay/Paypal Scam&#8221; was two-fold: First of all, I wanted to increase visibility of my &hellip;">
+  <meta name="description" content="">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,17 +18,35 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://codenerdz.com/">
+  <link rel="canonical" href="http://codenerdz.com">
   <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="/javascripts/ender.js"></script>
+  <link href="/stylesheets/bootstrap/bootstrap.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/bootstrap/responsive.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/syntax/syntax.css" media="screen, projection" rel="stylesheet" type="text/css">
+	<link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <style type="text/css">
+    body {
+      padding-bottom: 40px;
+    }
+    h1 {
+      margin-bottom: 15px;
+    }
+    img {
+      max-width: 100%;
+    }
+    .sharing, .meta, .pager {
+      margin: 20px 0px 20px 0px;
+    }
+    .page-footer p {
+      text-align: center;
+    }
+  </style>
+  <script src="/javascripts/libs/jquery.js"></script>
+  <script src="/javascripts/libs/modernizr-2.0.js"></script>
+  <script src="/javascripts/libs/bootstrap.js"></script>
   <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <link href="/atom.xml" rel="alternate" title="CodeNerdz" type="application/atom+xml">
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
+  
   
   <script type="text/javascript">
     var _gaq = _gaq || [];
@@ -46,43 +64,53 @@
 </head>
 
 <body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">CodeNerdz</a></h1>
-  
-    <h2>Make Code, Not War!.</h2>
-  
-</hgroup>
+  <nav role="navigation"><div class="navbar">
+  <div class="navbar-inner">
+    <div class="container">
+      <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </a>
 
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="http://google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:codenerdz.com" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
+      <a class="brand" href="/">CodeNerdz</a>
+
+      <div class="nav-collapse">
+        <ul class="nav">
   <li><a href="/">Blog</a></li>
   <li><a href="/blog/archives">Archives</a></li>
 </ul>
 
+
+        <ul class="nav pull-right" data-subscription="rss">
+          <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
+          
+        </ul>
+
+        
+          <form class="pull-right navbar-search" action="http://google.com/search" method="get">
+            <fieldset role="search">
+              <input type="hidden" name="q" value="site:codenerdz.com" />
+              <input class="search-query" type="text" name="q" results="0" placeholder="Search"/>
+            </fieldset>
+          </form>
+        
+      </div>
+    </div>
+  </div>
+</div>
 </nav>
-  <div id="main">
-    <div id="content">
-      <div class="blog-index">
+  <div class="container">
+    <div class="row-fluid">
+      <div class="span9">
   
   
   
     <article>
       
-  <header>
+  <header class="page-header">
     
-      <h1 class="entry-title"><a href="/blog/2012/12/05/post-mortem-outcry-of-the-crowd/">Outcry of the Crowd: Post-mortem of an Ebay/Paypal Scam</a></h1>
+      <h1 class="entry-title"><a href="/blog/2012/12/05/post-mortem-outcry-of-the-crowd/">Outcry of the Crowd: Post-mortem of an eBay/PayPal Scam</a></h1>
     
     
       <p class="meta">
@@ -105,13 +133,13 @@
   </header>
 
 
-  <div class="entry-content"><p>My intent for writing a tale of the <a href="http://codenerdz.com/blog/2012/12/03/think-of-selling-on-ebay-using-paypal-think-again/">&#8220;Perfect Ebay/Paypal Scam&#8221;</a> was two-fold:</p>
+  <div class="entry-content"><p>My intent for writing a tale of the <a href="http://codenerdz.com/blog/2012/12/03/think-of-selling-on-eBay-using-PayPal-think-again/">&#8220;Perfect eBay/PayPal Scam&#8221;</a> was two-fold:</p>
 
-<p>First of all, I wanted to increase visibility of my situation while I file police reports against the scammer and appeal Paypal&#8217;s decision against me.</p>
+<p>First of all, I wanted to increase visibility of my situation while I file police reports against the scammer and appeal PayPal&#8217;s decision against me.</p>
 
-<p>Most importantly, however, I wanted to expose the complete lack of protection that Paypal&#8217;s Seller Protection offers against fraudulent SNAD (Significantly Not As Described) chargebacks, even when multiple people are defrauded by the same scammer.</p>
+<p>Most importantly, however, I wanted to expose the complete lack of protection that PayPal&#8217;s Seller Protection offers against fraudulent SNAD (Significantly Not As Described) chargebacks, even when multiple people are defrauded by the same scammer.</p>
 
-<p>I certainly did not expect this story to go viral, but it managed to strike a chord in the community of fellow geeks who were as shocked as I was by the absurdity of Paypal&#8217;s resolution process that ignored all the evidence of fraud. So what was the outcome of this ordeal?</p>
+<p>I certainly did not expect this story to go viral, but it managed to strike a chord in the community of fellow geeks who were as shocked as I was by the absurdity of PayPal&#8217;s resolution process that ignored all the evidence of fraud. So what was the outcome of this ordeal?</p>
 
 </div>
   
@@ -127,9 +155,9 @@
   
     <article>
       
-  <header>
+  <header class="page-header">
     
-      <h1 class="entry-title"><a href="/blog/2012/12/03/think-of-selling-on-ebay-using-paypal-think-again/">Thinking of Selling on eBay With Paypal? Think Again!</a></h1>
+      <h1 class="entry-title"><a href="/blog/2012/12/03/think-of-selling-on-ebay-using-paypal-think-again/">Thinking of Selling on eBay With PayPal? Think Again!</a></h1>
     
     
       <p class="meta">
@@ -152,16 +180,16 @@
   </header>
 
 
-  <div class="entry-content"><p>Like many of my fellow geeks, Im an occasional eBay seller. Whenever the time comes for gadget upgrades or some sort of tech &#8220;spring cleaning&#8221;, I turn to eBay to offload my unwanted goods. Ive been doing this for quite a few years and I know my eBay/Paypal safety basics:</p>
+  <div class="entry-content"><p>Like many of my fellow geeks, Im an occasional eBay seller. Whenever the time comes for gadget upgrades or some sort of tech &#8220;spring cleaning&#8221;, I turn to eBay to offload my unwanted goods. Ive been doing this for quite a few years and I know my eBay/PayPal safety basics:</p>
 
 <ul>
 <li>Only sell to people with significant positive feedback</li>
-<li>Only ship to CONFIRMED Paypal addresses</li>
+<li>Only ship to CONFIRMED PayPal addresses</li>
 <li>Require Signature Confirmation for items over $250</li>
 </ul>
 
 
-<p>And then you, the SELLER, will be PROTECTED from buyer&#8217;s fraudulent claims by Paypal&#8217;s confidence-assuring Seller Protection&#8230;..OR SO I THOUGHT :(</p>
+<p>And then you, the SELLER, will be PROTECTED from buyer&#8217;s fraudulent claims by PayPal&#8217;s confidence-assuring Seller Protection&#8230;..OR SO I THOUGHT :(</p>
 
 </div>
   
@@ -174,34 +202,35 @@
 
     </article>
   
-  <div class="pagination">
+  <ul class="pager">
     
-    <a href="/blog/archives">Blog Archives</a>
+    <li><a href="/blog/archives">Blog Archives</a></li>
     
-  </div>
+  </ul>
 </div>
-<aside class="sidebar">
+<aside class="sidebar-nav span3">
   
     <section>
   <h1>About Me</h1>
   <p>When Im not working on my own projects or travelling, I write code for <a href="http://socialcast.com">Socialcast</a>, VMWare&#8217;s Social Enterprise Platform. 
 	<br>
-	<br><a href="http://stackoverflow.com/users/218248/vladimir-gurovich">StackOverflow Profile</a>
-	<br><a href="http://www.linkedin.com/in/vladgurovich">LinkedIn Profile</a>
-	<br><a href="https://github.com/vladgurovich">GitHub Profile</a>
-	</p>
+	<br>
+	<center><a href="http://stackoverflow.com/users/218248/vladimir-gurovich"><img src="/images/social/stackoverflow_32.png" alt ="StackOverflow"></a>
+	&nbsp;<a href="https://github.com/vladgurovich"><img src="/images/social/github_32.png" alt ="Github Repositories"></a>
+	&nbsp;<a href="http://www.linkedin.com/in/vladgurovich"><img src="/images/social/linkedin_32.png" alt ="LinkedIn Profile"></a>
+	&nbsp;<a href="http://twitter.com/vladgur"><img src="/images/social/twitter_32.png" alt ="Twitter"></a>
+	</center></p>
 </section>
-
-<section>
-  <h1>Recent Posts</h1>
-  <ul id="recent_posts">
+<section class="well">
+  <ul id="recent_posts" class="nav nav-list">
+    <li class="nav-header">Recent Posts</li>
     
       <li class="post">
-        <a href="/blog/2012/12/05/post-mortem-outcry-of-the-crowd/">Outcry of the crowd: Post-mortem of an Ebay/Paypal scam</a>
+        <a href="/blog/2012/12/05/post-mortem-outcry-of-the-crowd/">Outcry of the crowd: Post-mortem of an eBay/PayPal scam</a>
       </li>
     
       <li class="post">
-        <a href="/blog/2012/12/03/think-of-selling-on-ebay-using-paypal-think-again/">Thinking of selling on eBay with Paypal? Think again!</a>
+        <a href="/blog/2012/12/03/think-of-selling-on-ebay-using-paypal-think-again/">Thinking of selling on eBay with PayPal? Think again!</a>
       </li>
     
   </ul>
@@ -216,8 +245,9 @@
 
     </div>
   </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2012 - Vlad Gurovich -
+  <footer role="contentinfo" class="page-footer"><hr>
+<p>
+  Copyright &copy; 2012 -
   <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
 </p>
 
