@@ -1,21 +1,21 @@
 ---
 layout: post
-title: "Thinking of selling on eBay with Paypal? Think again!"
+title: "Thinking of selling on eBay with PayPal? Think again!"
 date: 2012-12-03 01:15
 comments: true
-categories: [eBay, Paypal, scam, fraud]
+categories: [eBay, PayPal, scam, fraud]
 ---
-Like many of my fellow geeks, Im an occasional eBay seller. Whenever the time comes for gadget upgrades or some sort of tech "spring cleaning", I turn to eBay to offload my unwanted goods. Ive been doing this for quite a few years and I know my eBay/Paypal safety basics:
+Like many of my fellow geeks, Im an occasional eBay seller. Whenever the time comes for gadget upgrades or some sort of tech "spring cleaning", I turn to eBay to offload my unwanted goods. Ive been doing this for quite a few years and I know my eBay/PayPal safety basics:
 
 * Only sell to people with significant positive feedback
-* Only ship to CONFIRMED Paypal addresses
+* Only ship to CONFIRMED PayPal addresses
 * Require Signature Confirmation for items over $250
 
-And then you, the SELLER, will be PROTECTED from buyer's fraudulent claims by Paypal's confidence-assuring Seller Protection.....OR SO I THOUGHT :(
+And then you, the SELLER, will be PROTECTED from buyer's fraudulent claims by PayPal's confidence-assuring Seller Protection.....OR SO I THOUGHT :(
 <!-- more -->
 
 ### The Sale
-[{%img right https://lh6.googleusercontent.com/--gJ6OXA7-tY/ULx7qMNVMvI/AAAAAAAADAY/mHbA__y3FYg/s288/signature_confirmation.png 200 %}](https://lh6.googleusercontent.com/--gJ6OXA7-tY/ULx7qMNVMvI/AAAAAAAADAY/mHbA__y3FYg/s800/signature_confirmation.png)
+[{%img pull-right https://lh6.googleusercontent.com/--gJ6OXA7-tY/ULx7qMNVMvI/AAAAAAAADAY/mHbA__y3FYg/s166/signature_confirmation.png %}](https://lh6.googleusercontent.com/--gJ6OXA7-tY/ULx7qMNVMvI/AAAAAAAADAY/mHbA__y3FYg/s800/signature_confirmation.png)
 In late September, when my elder father's mobile contract came to an end, I decided to use his renewal upgrade to subsidize his phone service. 
 
 As he has no use for smartphones, I sold his new iPhone 5 on eBay to a buyer with over 20 positive feedbacks. The buyer paid quickly and I shipped to his CONFIRMED address with insurance and signature confirmation. 
@@ -24,9 +24,10 @@ Life was great!
 
 ### The Eye of the Storm
 
-[{% img right https://lh5.googleusercontent.com/-Bna5RC3vASE/ULx7o7pN18I/AAAAAAAAC_8/lz5eEsAgdhw/s288/paypal_transaction.png 200 %}](https://lh5.googleusercontent.com/-Bna5RC3vASE/ULx7o7pN18I/AAAAAAAAC_8/lz5eEsAgdhw/s800/paypal_transaction.png) Until mid-October, that is, when I got a notice from Paypal stating that the buyer has filed a chargeback through his credit card issuer claiming that the item "not as described". This came as a shock to me since I havent heard anything from the buyer since the initial transaction. 
+[{% img pull-right https://lh5.googleusercontent.com/-Bna5RC3vASE/ULx7o7pN18I/AAAAAAAAC_8/lz5eEsAgdhw/s166/PayPal_transaction.png %}](https://lh5.googleusercontent.com/-Bna5RC3vASE/ULx7o7pN18I/AAAAAAAAC_8/lz5eEsAgdhw/s800/PayPal_transaction.png)
+Until mid-October, that is, when I got a notice from PayPal stating that the buyer has filed a chargeback through his credit card issuer claiming that the item "not as described". This came as a shock to me since I havent heard anything from the buyer since the initial transaction. 
 
-So I send the proof of delivery over to Paypal as required and started looking into this buyer with more detail.
+So I send the proof of delivery over to PayPal as required and started looking into this buyer with more detail.
 
 ### The jigsaw of a scam
 
@@ -38,19 +39,21 @@ The more I looked into the buyer, the more suspicious I became:
 * Furthermore, he got positive reviews from 3 other sellers that sold him 3 more new iPhone 5s within a week of my sale. 
 * I contacted these sellers through eBay Messages platform and was petrified to learn that each one of them got a chargeback issued by same very buyer. Interestingly enough, they couldn't undo their positive feedback or post negative feedback about the buyer since eBay got rid of that feature a few years back.
 
-[{% img https://lh3.googleusercontent.com/-H7cwOPsqrqQ/ULx7o917y4I/AAAAAAAADAA/XCG9GjdMoVo/s288/seller1_message.png 200 %}](https://lh3.googleusercontent.com/-H7cwOPsqrqQ/ULx7o917y4I/AAAAAAAADAA/XCG9GjdMoVo/s800/seller1_message.png)
-[{% img https://lh6.googleusercontent.com/-yFm75ggSmYI/ULx7piFLmcI/AAAAAAAADAU/Jzoltpg-pTM/s288/seller2_message.png 200 %}](https://lh6.googleusercontent.com/-yFm75ggSmYI/ULx7piFLmcI/AAAAAAAADAU/Jzoltpg-pTM/s800/seller2_message.png)
-[{% img https://lh4.googleusercontent.com/-awN1NoaBaAg/ULx7pi7hILI/AAAAAAAADAM/GYMa9gKH5jk/s288/seller3_message.png 200 %}](https://lh4.googleusercontent.com/-awN1NoaBaAg/ULx7pi7hILI/AAAAAAAADAM/GYMa9gKH5jk/s800/seller3_message.png) 
+[{% img https://lh3.googleusercontent.com/-H7cwOPsqrqQ/ULx7o917y4I/AAAAAAAADAA/XCG9GjdMoVo/s166/seller1_message.png %}](https://lh3.googleusercontent.com/-H7cwOPsqrqQ/ULx7o917y4I/AAAAAAAADAA/XCG9GjdMoVo/s800/seller1_message.png)
+[{% img https://lh6.googleusercontent.com/-yFm75ggSmYI/ULx7piFLmcI/AAAAAAAADAU/Jzoltpg-pTM/s166/seller2_message.png %}](https://lh6.googleusercontent.com/-yFm75ggSmYI/ULx7piFLmcI/AAAAAAAADAU/Jzoltpg-pTM/s800/seller2_message.png)
+[{% img https://lh4.googleusercontent.com/-awN1NoaBaAg/ULx7pi7hILI/AAAAAAAADAM/GYMa9gKH5jk/s166/seller3_message.png %}](https://lh4.googleusercontent.com/-awN1NoaBaAg/ULx7pi7hILI/AAAAAAAADAM/GYMa9gKH5jk/s800/seller3_message.png) 
 
-At this point the fraudulent intent was pretty clear to me and I forwarded all this information to Paypal using their aptly-named Dispute Resolution Center which allows you to not only add notes to your case, but also upload documents to support your side of the story. 
 
-There was no doubt in my mind, that the fraud would be as clear to Paypal's investigators as it was to me and I would be covered by very confidence-inspiring Seller Protection.
+At this point the fraudulent intent was pretty clear to me and I forwarded all this information to PayPal using their aptly-named Dispute Resolution Center which allows you to not only add notes to your case, but also upload documents to support your side of the story. 
+
+There was no doubt in my mind, that the fraud would be as clear to PayPal's investigators as it was to me and I would be covered by very confidence-inspiring Seller Protection.
 
 ### The Seller Protection letdown
 
-That reassurance was very short-lived as I soon received an email from Paypal stating that I am in fact NOT ELIGIBLE for Seller Protection for this transaction because "*not as described*" chargeback apparently is not covered by Seller Protection.
+That reassurance was very short-lived as I soon received an email from PayPal stating that I am in fact NOT ELIGIBLE for Seller Protection for this transaction because "*not as described*" chargeback apparently is not covered by Seller Protection.
 
-[{% img right https://lh6.googleusercontent.com/-rhtIyAG_TPs/ULyAxOhZy9I/AAAAAAAADBA/u_vwT_3szb4/s288/paypal_protection.png 200%}](https://lh6.googleusercontent.com/-rhtIyAG_TPs/ULyAxOhZy9I/AAAAAAAADBA/u_vwT_3szb4/s800/paypal_protection.png) Take a look at [Paypal's Seller Protection](https://www.paypal.com/us/webapps/mpp/security/seller-protection-learn-more) Page. Note how it states: "*PayPal will cover you in the event of an unauthorized purchase, an "item not received" claim, chargeback, or reversal*" on top. This seems to mean that Paypal would cover you in case of any chargebacks if you follow Paypal's Seller Protection rules outlined later in that page.
+[{% img pull-right https://lh6.googleusercontent.com/-rhtIyAG_TPs/ULyAxOhZy9I/AAAAAAAADBA/u_vwT_3szb4/s166/PayPal_protection.png 200%}](https://lh6.googleusercontent.com/-rhtIyAG_TPs/ULyAxOhZy9I/AAAAAAAADBA/u_vwT_3szb4/s800/PayPal_protection.png) 
+Take a look at [PayPal's Seller Protection](https://www.PayPal.com/us/webapps/mpp/security/seller-protection-learn-more) Page. Note how it states: "*PayPal will cover you in the event of an unauthorized purchase, an "item not received" claim, chargeback, or reversal*" on top. This seems to mean that PayPal would cover you in case of any chargebacks if you follow PayPal's Seller Protection rules outlined later in that page.
 
 Well my interpretation was wrong: later in page it states "*You are not covered when .... You've received a claim or a chargeback, and the shipped item is found to be significantly different than it was described.*" Notice how it says "*the shipped item is found*..." 
 
@@ -64,22 +67,22 @@ Do you think that sellers with a long history of positive feedbacks would have s
 
 ### The Collections
 
-Meanwhile, Paypal's automatic reversal put my account $850 in the red. Soon after Paypal collections started calling me even while the case was still being disputed. Since i didnt feel I did anything wrong, I had no intention of paying this while its still in review, essentially making this issue my problem vs Paypal's problem. To my surprise, most of the folks working in Paypal collections were fairly understandable, but they insisted that I am taking a risk of this going to the outside collections.....
+Meanwhile, PayPal's automatic reversal put my account $850 in the red. Soon after PayPal collections started calling me even while the case was still being disputed. Since i didnt feel I did anything wrong, I had no intention of paying this while its still in review, essentially making this issue my problem vs PayPal's problem. To my surprise, most of the folks working in PayPal collections were fairly understandable, but they insisted that I am taking a risk of this going to the outside collections.....
 
 ### The Report
 
-I put some effort into collecting all the evidence available to me and then wrote up a detailed 2-page report of what happened and submitted it along with proof of delivery, proof of purchase of the original phone, ebay listings for other iPhones purchased by this fraudster and info on other sellers that he defrauded. Ive also filed a [USPS Mail Fraud](http://ehome.uspis.gov/fcsexternal/default.aspx) complaint and FBI-run [Intenet Crime Complaint Center](http://ic3.gov) complaint . All of these I submitted to Paypal Resolution Center and started praying to the gods of fraud detection at Paypal and the Credit Card companies.
+I put some effort into collecting all the evidence available to me and then wrote up a detailed 2-page report of what happened and submitted it along with proof of delivery, proof of purchase of the original phone, eBay listings for other iPhones purchased by this fraudster and info on other sellers that he defrauded. Ive also filed a [USPS Mail Fraud](http://ehome.uspis.gov/fcsexternal/default.aspx) complaint and FBI-run [Intenet Crime Complaint Center](http://ic3.gov) complaint . All of these I submitted to PayPal Resolution Center and started praying to the gods of fraud detection at PayPal and the Credit Card companies.
 
 ### Hope Dies Last
 
-On November 29th, I got a "*Notification of Resolution of Chargeback*" from Paypal:
+On November 29th, I got a "*Notification of Resolution of Chargeback*" from PayPal:
 
-[{%img right https://lh4.googleusercontent.com/-ozopfu8xOws/ULx7o5GoWMI/AAAAAAAADAE/FQ8cahcIvYo/s288/paypal_claim_closed.png 200%}](https://lh4.googleusercontent.com/-ozopfu8xOws/ULx7o5GoWMI/AAAAAAAADAE/FQ8cahcIvYo/s800/paypal_claim_closed.png)"*As you know, we have been using the information you provided to dispute a chargeback filed against the transaction detailed below. Despite our best efforts, the buyer's credit card company decided in favor of the buyer.*
+[{%img pull-right https://lh4.googleusercontent.com/-ozopfu8xOws/ULx7o5GoWMI/AAAAAAAADAE/FQ8cahcIvYo/s166/PayPal_claim_closed.png %}](https://lh4.googleusercontent.com/-ozopfu8xOws/ULx7o5GoWMI/AAAAAAAADAE/FQ8cahcIvYo/s800/PayPal_claim_closed.png)"*As you know, we have been using the information you provided to dispute a chargeback filed against the transaction detailed below. Despite our best efforts, the buyer's credit card company decided in favor of the buyer.*
  
 *Unfortunately, we do not control the outcome of the chargeback decision reached by the buyer's issuing bank in a credit card transaction. By
 accepting the terms of the PayPal User Agreement, you agreed to accept the decision of the issuing bank as final and legally binding for this type of dispute.*"
 
-In essence what this means is that the buyer found the **PERFECT eBay/Paypal SCAM**
+In essence what this means is that the buyer found the **PERFECT eBay/PayPal SCAM**
 
 * Buy several expensive items on a credit card(or several credit cards)
 * Issue "merchandise not as received" chargebacks through these credit cards
@@ -90,34 +93,34 @@ This business model puts underpants-stealing gnomes to shame.
 
 ### IS IT REALLY THIS SIMPLE?
 
-Yes, it is. Because both eBay and Paypal provided this fraudster with loopholes all the while collecting hefty fees for their transactions.
+Yes, it is. Because both eBay and PayPal provided this fraudster with loopholes all the while collecting hefty fees for their transactions.
 
 ##### How did eBay enable this fraud to happen:
 
 * eBay no longer allows sellers to leave negative feedback about buyers. This pretty much kills the ability of sellers to warn their fellow sellers of fraudulent buyers
 
-##### How did Paypal enable this fraud to happen
+##### How did PayPal enable this fraud to happen
 
-* Paypal advertises confidence-inspiring Seller Protection without highlighting lack of coverage for ß"merchandise not as describe" or providing solutions to this issue
-* Paypal doesnt enforce the buyer to return the item in case of "merchandise as described"
-* Paypal doesnt allow the seller to contact the buyers credit card issuer in order to try to dispute the chargeback directly 
+* PayPal advertises confidence-inspiring Seller Protection without highlighting lack of coverage for "merchandise not as describe" or providing solutions to this issue
+* PayPal doesn't require the buyer to return the item in case of "merchandise as described"
+* PayPal doesn't allow the seller to contact the buyers credit card issuer in order to try to dispute the chargeback directly 
 
 ### Conclusion
 
-**EBAY/PAYPAL SELLER PROTECTION IS WORTHLESS.** If youre thinking of selling an expensive item on eBay, think again. There is virtually no protection against "NOT AS DESCRIBED" chargebacks for you.
+**eBay/PayPal SELLER PROTECTION IS WORTHLESS.** If you're thinking of selling an expensive item on eBay, think again. There is virtually no protection against "NOT AS DESCRIBED" chargebacks for you.
 
-Your only chance of collecting the money is to file a police report at the location where you delivered your item, try to confirm the identity of the perpetrator and to file a small claim in order to collect it. Neither Paypal nor Ebay will help you with it.
+Your only chance of collecting the money is to file a police report at the location where you delivered your item, try to confirm the identity of the perpetrator and to file a small claim in order to collect it. Neither PayPal nor eBay will help you with it.
 
 ##### TLDR:
 
-I sold iPhone 5 on Ebay to a fraudster that issued "ITEM NOT AS DESCRIBED" chargebacks against me and 3 other sellers and won. eBay/Paypal did not cover me under Seller Protection and did very little to dispute the chargebacks or to force the buyer to send it back. 
+I sold iPhone 5 on eBay to a fraudster that issued "ITEM NOT AS DESCRIBED" chargebacks against me and 3 other sellers and won. eBay/PayPal did not cover me under Seller Protection and did very little to dispute the chargebacks or to force the buyer to send it back. 
 
-Im out of nearly a thousand dollars(after ebay fees) and the iPhone while the fraudulent buyer is enjoying his FREE iPhone from me and 3 other sellers and both Paypal and Ebay do collect fees from these fraudulent transactions that they do not help with resolving.
+Im out of nearly a thousand dollars(after eBay fees) and the iPhone while the fraudulent buyer is enjoying his FREE iPhone from me and 3 other sellers and both PayPal and eBay do collect fees from these fraudulent transactions that they do not help with resolving.
 
 Discuss this on [HackerNews](http://news.ycombinator.com/item?id=4867484)
 
 ##### Update
 
-*Thanks for all the supporters that helped this blog post go viral on both HackerNews and Twitter. Both executive team office and Developer Evangelists at Paypal, as well as investigators from eBay have reached out to me in order to resolve this case. Please read my [Post-Mortem](http://codenerdz.com/blog/2012/12/05/post-mortem-outcry-of-the-crowd/) post, where I outline my experiences once this story became highly visible.*
+*Thanks for all the supporters that helped this blog post go viral on both HackerNews and Twitter. Both executive team office and Developer Evangelists at PayPal, as well as investigators from eBay have reached out to me in order to resolve this case. Please read my [Post-Mortem](http://codenerdz.com/blog/2012/12/05/post-mortem-outcry-of-the-crowd/) post, where I outline my experiences once this story became highly visible.*
 
 
