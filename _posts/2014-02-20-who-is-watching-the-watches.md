@@ -17,7 +17,7 @@ It is the engine that drives interactivity of the application, allowing changes 
 
 {% highlight html %}
 {% raw %}
-<div class="article-row" `ng-repeat`="article in articles" ng-click="openarticle($index)">
+<div class="article-row" ng-repeat="article in articles" ng-click="openarticle($index)">
   <div class="article-author">
     <img ng-src="{{article.author.avatarUrl}}">
     <span class="author-name">{{article.author.name}}</span>
