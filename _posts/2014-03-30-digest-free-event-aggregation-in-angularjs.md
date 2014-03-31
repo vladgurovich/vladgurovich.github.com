@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "$digest-free event aggregation in AngularJS"
-modified: 2014-03-30 23:14:48 -0700
-tags: [angularjs performance]
+description: This AngularJS service will let you change state of different objects without triggering the $digest cycle.
+tags: [angularjs, performance]
 image:
   feature: event_aggregator_feature.jpg
 comments: true
