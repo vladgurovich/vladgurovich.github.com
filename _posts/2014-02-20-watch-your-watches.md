@@ -84,10 +84,10 @@ If your use case allows for it, throttle or debounce the scope changes. There is
 
 I have come to terms that there are situations when you do not want to gamble invoking the digest cycle at all.
 
-Recently I came across a situation like that when I was simulating a native swipe by doing a gpu-accelerated transfrom on a 'drag' event and when a user would release his or her finger, I would initiate a gpu-acellerated transition to simulate inertia. Whenever I tried updating a scope variable on 'dragend', therefore triggering a digest cycle, there was a distinct pause between the 'dragend' event and the beginning of that inertia transition.
+Recently I came across a situation like that when a colleague of mine was simulating a native swipe by doing a gpu-accelerated transfrom on a 'drag' event and when he would release his finger, he would initiate a gpu-acellerated transition to simulate inertia. Whenever he tried updating a scope variable on 'dragend', therefore triggering a digest cycle, there was a distinct pause between the 'dragend' event and the beginning of that inertia transition.
 
 > This was an example when milliseconds count.
 
-My solution was to go where no AngularJS developer likes to go, but sometimes they really must: I ventured outside the AngularJS lifecycle and implemented a good old *Observer/Observable* pattern. More on this in my next post.
+My solution was to go where no AngularJS developer likes to go, but sometimes they really must: we ventured outside the AngularJS lifecycle and used a good old *Event Aggregator* pattern. More on this in my [next post](http://vlad.io/digest-free-event-aggregation-in-angularjs/).
 
 
